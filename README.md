@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Once upon a time, a man named Jan Ocelík was born.
 
-He graduated from primary school with excellent grades and so he decided to go to the secondary school of electrical engineering in Pilsen.
+He graduated from middle school with excellent grades and so he decided to go to the high school of electrical engineering in Pilsen.
 Nowadays he is still studying there and starting to prepare for his final exams...
 
 Enough of that crap-talk, now some serious stuff:
